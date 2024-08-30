@@ -1,0 +1,5 @@
+Exception: an Exception is an event that disrupts the normal flow of the program,
+
+Exception Handling is a mechanism to handle errors , ensures the noraml flow of the application is maintained
+
+Collection Framwork--> it provides us set of classes and interfaces for stroring and manipulating groups of data in a single unit 
